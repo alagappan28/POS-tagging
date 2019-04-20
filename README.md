@@ -1,6 +1,6 @@
 Hello World ;)
 
-A python program called tagger.py which will take as input a training file containing part of speech tagged text, and a file containing text to be part of speech tagged. 
+A python program "tagger.py", will take as input a training file containing part of speech tagged text, and a file containing text to be part of speech tagged. 
 
 The training data is pos-train.txt, and the text to be tagged is pos-test.txt. There is also a gold standard (manually tagged) version of the test file found in pos-test-key.txt that will be uses to evaluate the tagged output.
 
